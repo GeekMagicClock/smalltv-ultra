@@ -1,0 +1,12 @@
+V9.0.10
+1) Fixed the problem of negative weather temperature display.
+2) Fix the 12/24 hour display of simple time theme.
+3) Fixed the Fahrenheit display problem of simple weather.
+
+V9.0.8
+1) Optimize the simple weather layout.
+2) Fix the problem of garbled tones in city names.
+3) Remove the Chinese character library.
+4) Optimize the weather acquisition for the first time the computer is turned on, requesting once every 10 seconds until the weather is updated, and then resume updating every 20 minutes.
+5) Optimize city settings, code and name combined.
+6) Theme switching is changed to button style.
