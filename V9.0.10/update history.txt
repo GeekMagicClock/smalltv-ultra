@@ -2,6 +2,7 @@ V9.0.10
 1) Fixed the problem of negative weather temperature display.
 2) Fix the 12/24 hour display of simple time theme.
 3) Fixed the Fahrenheit display problem of simple weather.
+4) Fixed the issue where file names with a + sign in the file list could not be deleted.
 
 V9.0.8
 1) Optimize the simple weather layout.
