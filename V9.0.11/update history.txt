@@ -1,5 +1,5 @@
 V9.0.11
-1) Fix public key run out, it's highly recommended register your own api key.  [Urgent fix]
+1) Fix public key run out, it's highly recommended to register your own api key.  [Urgent fix]
 
 V9.0.10
 1) Fixed the problem of negative weather temperature display.
