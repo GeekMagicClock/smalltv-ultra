@@ -1,5 +1,6 @@
 V9.0.13
 1) small fix, fix night mode bug under simple time style theme.
+2) small fix, fix date format can't change in time style2.
 
 V9.0.11
 1) Fix public key run out, it's highly recommended to register your own api key.  [Urgent fix]
