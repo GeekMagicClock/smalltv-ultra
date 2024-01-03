@@ -1,0 +1,4 @@
+We have different model but with the same CPU, so please take care before the update, please check your model and upload the Corresponding firmware,
+or it will not work properly, and may make it diffcult to update back.
+
+Thank you.
