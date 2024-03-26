@@ -1,6 +1,7 @@
 V9.0.17
 1) Fix some weather forecast-related bugs.
-2) Optimize stability.
+2) Fix min and max temperature of today.
+3）Optimize stability.
 
 V9.0.15
 1) fix long city name, stable fix.
