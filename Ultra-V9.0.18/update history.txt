@@ -1,7 +1,8 @@
-V9.0.17
-1) Fix some weather forecast-related bugs.
+V9.0.18
+1) Fix some weather forecast-related bugs(third day weather not displayed, 12/24 hour format, Switch between Fahrenheit and Celsius).
 2) Fix min and max temperature of today.
-3）Optimize stability.
+3) Optimize stability.
+4) Need to know: Be careful to use the loop theme function, the device may be reboot caused by the little ram.
 
 V9.0.15
 1) fix long city name, stable fix.
