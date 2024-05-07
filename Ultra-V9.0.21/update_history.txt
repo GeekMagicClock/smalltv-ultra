@@ -1,0 +1,43 @@
+V9.0.21
+1) Add a 5-minute interval retry for reconnecting if the WiFi connection is lost.
+2) Add a 3-time retry if the WiFi connection fails during boot.
+
+V9.0.20
+1)  Fix night mode failed when loop to album theme.
+2)  Gif play time is the same with jpg files in album theme.
+
+V9.0.19
+1) Stable fix, ram optimize.
+
+V9.0.18
+1) Fix some weather forecast-related bugs(third day weather not displayed, 12/24 hour format, Switch between Fahrenheit and Celsius).
+2) Fix min and max temperature of today.
+3) Optimize stability.
+4) Need to know: Be careful to use the loop theme function, the device may be reboot caused by the little ram.
+
+V9.0.15
+1) fix long city name, stable fix.
+
+V9.0.14
+1) small fix, stable fix.
+
+V9.0.13
+1) small fix, fix night mode bug under simple time style theme.
+2) small fix, fix date format can't change in time style2.
+
+V9.0.11
+1) Fix public key run out, it's highly recommended to register your own api key.  [Urgent fix]
+
+V9.0.10
+1) Fixed the problem of negative weather temperature display.
+2) Fix the 12/24 hour display of simple time theme.
+3) Fixed the Fahrenheit display problem of simple weather.
+4) Fixed the issue where file names with a + sign in the file list could not be deleted.
+
+V9.0.8
+1) Optimize the simple weather layout.
+2) Fix the problem of garbled tones in city names.
+3) Remove the Chinese character library.
+4) Optimize the weather acquisition for the first time the computer is turned on, requesting once every 10 seconds until the weather is updated, and then resume updating every 20 minutes.
+5) Optimize city settings, code and name combined.
+6) Theme switching is changed to button style.
