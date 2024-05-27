@@ -1,2 +1,1 @@
 1dbc69cbbe4cdffe63e726aaec26a5a0 *Ultra-V9.0.23/FW-Smalltv-Ultra-V9.0.23.bin
-6e7f499c2ee39f673c2119dda4f76e10 *Ultra-V9.0.23/Ultra-V9.0.23-内部烧录.bin
