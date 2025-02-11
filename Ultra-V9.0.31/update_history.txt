@@ -1,3 +1,6 @@
+V9.0.31 20250211
+1) Fix hour display bug.
+
 V9.0.30 20250210
 1) Fix gif lag bug.
 
