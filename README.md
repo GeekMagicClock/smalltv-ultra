@@ -2,7 +2,7 @@
 
 ## GeekMagic Brand Store:
 Ultra model with ESP8266:
-https://www.aliexpress.com//item/1005006159850972.html
+https://www.aliexpress.com//item/1005011742070248.html
 https://www.aliexpress.com//item/1005006727771881.html
 
 PRO model with ESP32:
