@@ -1,6 +1,6 @@
 ## We apologize for and appalled by the shoddy packaging, crippled functionality and shabby UI interface of the counterfeit products. And here attach links to our authorized stores for your reference. All items marked with the GeekMagic® trademark are authentic Ultra models; products labeled unbranded or with other brand names are likely counterfeits.
 
-## GeekMagic Brand Store:
+## GeekMagic Outlet Store:
 Ultra model with ESP8266:
 https://www.aliexpress.com//item/1005011742070248.html
 https://www.aliexpress.com//item/1005006727771881.html
@@ -9,7 +9,7 @@ PRO model with ESP32:
 https://www.aliexpress.com/item/1005010250156249.html
 https://www.aliexpress.com/item/1005005699410709.html
 
-## GeekInside Store:
+## GeekMagic Official Store:
 Ultra model with ESP8266:
 https://www.aliexpress.com/item/1005006059166210.html
 
