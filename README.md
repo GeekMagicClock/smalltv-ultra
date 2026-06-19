@@ -1,5 +1,8 @@
 ## We apologize for and appalled by the shoddy packaging, crippled functionality and shabby UI interface of the counterfeit products. And here attach links to our authorized stores for your reference. All items marked with the GeekMagic® trademark are authentic Ultra models; products labeled unbranded or with other brand names are likely counterfeits.
 
+### Official Links
+📺 Website Videos & Store: https://geekmagic.cc
+
 ## GeekMagic Outlet Store:
 Ultra model with ESP8266:
 https://www.aliexpress.com//item/1005011742070248.html
@@ -15,8 +18,6 @@ https://www.aliexpress.com/item/1005006059166210.html
 
 PRO model with ESP32:
 https://www.aliexpress.com/item/1005006379505056.html
-
-中文： 请把 zip 压缩包下载解压后，再在 Web 控制台的固件升级选项中上传。 请注意，在升级之前，必须确认型号是：GeekMagic-Ultra，其他型号将导致不能显示或者无法正常工作！
 
 # English: Please download and extract the zip package, then upload the extracted files in the Firmware Upgrade section of the Web Console. Important: Before upgrading, make sure the model is GeekMagic-Ultra. Using other models may result in display failure or malfunction!
 
